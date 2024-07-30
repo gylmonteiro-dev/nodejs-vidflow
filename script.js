@@ -1,5 +1,4 @@
 const containerVideos = document.querySelector(".videos__container");
-console.log(x);
 
 async function buscarEMostrarVideos() {
   try {
